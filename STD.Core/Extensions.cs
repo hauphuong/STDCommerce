@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace STD.Core
 {
-    public class ABC
+    class Extensions
     {
     }
 }

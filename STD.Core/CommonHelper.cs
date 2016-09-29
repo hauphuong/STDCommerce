@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace STD.Data
+namespace STD.Core
 {
-    public class Class1
+    class CommonHelper
     {
     }
 }
